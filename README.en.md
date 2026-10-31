@@ -49,6 +49,8 @@ Memory servers and plugins that preserve coding-session context, engineering les
 - [claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Claude Code plugin that uses Supermemory to capture durable conversation context, recall relevant memories, and share repository memory across sessions.
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local MCP server that preserves code knowledge graphs and architectural decision records for reuse across AI coding sessions.
 - [Claude-Mem](https://github.com/thedotmack/claude-mem) - Persistent memory system that captures coding-agent tool observations, generates summaries, and retrieves project context for later sessions.
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - Public-beta DeepSeek Harness text-memory plugin preserving original-source references, global/project scope, conditions and correction history through lexical retrieval.
+
 
 ## Evaluation and Learning Resources
 

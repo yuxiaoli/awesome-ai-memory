@@ -49,6 +49,8 @@
 - [claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Claude Code 插件，借助 Supermemory 保存持久的对话上下文、检索相关记忆，并跨会话共享代码仓库记忆。
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - 本地 MCP 服务，保存代码知识图谱与架构决策记录，供 AI 编程智能体跨会话复用。
 - [Claude-Mem](https://github.com/thedotmack/claude-mem) - 持久记忆系统，可捕获编程智能体的工具观察结果、生成摘要，并为后续会话检索项目上下文。
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - DeepSeek Harness 文字记忆插件（公开测试版），以词面检索复用原话来源、全局/项目范围、条件与修订历史。
+
 
 ## 评测与学习资源
 

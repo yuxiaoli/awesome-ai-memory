@@ -49,6 +49,8 @@
 - [claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Claude Code 外掛程式，透過 Supermemory 儲存持久的對話上下文、檢索相關記憶，並跨對話共享程式碼庫記憶。
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - 本機 MCP 伺服器，儲存程式碼知識圖譜及架構決策記錄，供 AI 程式開發智能體跨對話重用。
 - [Claude-Mem](https://github.com/thedotmack/claude-mem) - 持久記憶系統，可擷取程式開發智能體的工具觀察結果、產生摘要，並為後續對話檢索項目上下文。
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - DeepSeek Harness 文字記憶外掛（公開測試版），以詞彙比對檢索重用原文來源、全域／專案範圍、條件及修訂歷史。
+
 
 ## 評測及學習資源
 
